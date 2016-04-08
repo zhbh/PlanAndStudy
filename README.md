@@ -13,10 +13,10 @@
 记录的内容包括前端学习到技能，技能会随时间变化而更新相应内容。计划每一天都事务提交，每次提交都是知识的累积。
 
 学习列表
-. sass
-. gulp
-. jekyll
-. reactjs
-. git
+  . sass
+  . gulp
+  . jekyll
+  . reactjs
+  . git
 
 ## 成果
