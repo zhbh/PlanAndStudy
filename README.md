@@ -21,6 +21,8 @@
 - jekyll
 - reactjs
 - git
+- nodejs
+- python
 
 <h2 id="result">成果</h2>
 记录学习作品
@@ -50,6 +52,8 @@ list of study
 - jekyll
 - reactjs
 - git
+- nodejs
+- python
 
 ## result
 
